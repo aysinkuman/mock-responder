@@ -1,0 +1,86 @@
+{
+  "individuals": [
+    {
+      "name": "Emma Schmidt",
+      "iban": "DE89370400440532013000"
+    },
+    {
+      "name": "Lucas Weber",
+      "iban": "DE27100777770209299700"
+    },
+    {
+      "name": "Sofia Mueller",
+      "iban": "DE56500105174529812345"
+    },
+    {
+      "name": "Max Wagner",
+      "iban": "DE42500105173984217000"
+    },
+    {
+      "name": "Hannah Fischer",
+      "iban": "DE91100000000123456789"
+    },
+    {
+      "name": "Felix Becker",
+      "iban": "DE16500105179172394500"
+    },
+    {
+      "name": "Laura Klein",
+      "iban": "DE33100205000001234567"
+    },
+    {
+      "name": "Jonas Hoffmann",
+      "iban": "DE75512108001245126199"
+    },
+    {
+      "name": "Lena Schäfer",
+      "iban": "DE02100500000054321789"
+    },
+    {
+      "name": "Tim Schneider",
+      "iban": "DE19103105172012987600"
+    }
+  ],
+  "institution": [
+    {
+      "identification": "DBB4521",
+      "iban": "DE45300800900543217890"
+    },
+    {
+      "identification": "SPM7832",
+      "iban": "DE67100900781234567890"
+    },
+    {
+      "identification": "CBH1459",
+      "iban": "DE89200800902345678901"
+    },
+    {
+      "identification": "VBF9023",
+      "iban": "DE21500800903456789012"
+    },
+    {
+      "identification": "HVB6374",
+      "iban": "DE43700800904567890123"
+    },
+    {
+      "identification": "PBK2985",
+      "iban": "DE12370800905678901234"
+    },
+    {
+      "identification": "DZB5147",
+      "iban": "DE34600800906789012345"
+    },
+    {
+      "identification": "KFW8630",
+      "iban": "DE56100800907890123456"
+    },
+    {
+      "identification": "ING4792",
+      "iban": "DE78300800908901234567"
+    },
+    {
+      "identification": "DBP3016",
+      "iban": "DE90400800909012345678"
+    }
+  ]
+} 
