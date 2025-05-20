@@ -1,0 +1,15 @@
+{
+  "name": "mock-responder",
+  "version": "1.0.0",
+  "main": "mockResponder.js",
+  "scripts": {
+    "start": "node mockResponder.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "Mock Responder for CoP API testing",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
