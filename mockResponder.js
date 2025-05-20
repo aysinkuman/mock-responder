@@ -6,7 +6,7 @@ const app = express();
 
 app.use(express.json());
 
-const db = JSON.parse(fs.readFileSync(path.join(__dirname, '../data/accounts.json'), 'utf8'));
+const db = JSON.parse(fs.readFileSync(path.join(__dirname, './accounts.json'), 'utf8'));
 
 app.post('/vop/v1/respond', (req, res) => {
   const { party, partyAccount } = req.body;
